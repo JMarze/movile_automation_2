@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cleanTest.AlarmaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-22T22:44:37" hostname="DESKTOP-C6VTJMM" time="44.809">
+  <properties/>
+  <testcase name="verifyCreateAlarma()" classname="cleanTest.AlarmaTest" time="44.809"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[oct. 22, 2022 6:44:51 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
